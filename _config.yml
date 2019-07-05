@@ -128,7 +128,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Staticman support
 staticman:
-  repository : "VincentTam/BJPubTest" # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository : "VincentTam/BJPubTest1" # GitHub username/repository eg. "daattali/beautiful-jekyll"
   branch     : "gh-pages" # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : "https://staticman-frama.herokuapp.com/v3/entry/github/" # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
